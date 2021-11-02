@@ -9,4 +9,4 @@ A game where you can try to guess a mystery number! By clicking up or down you c
 
 
 # Links
-Game is hosted at: 
+Game is hosted at:  https://mandrewartha.github.io/udemy-guess-number-game/
